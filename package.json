@@ -6,7 +6,7 @@
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node Maher-Zubair.js"
+    "start": "node Mudau_t.js"
   },
   "author": "Mudau_t",
   "license": "GPL-3.0 license",
@@ -23,4 +23,5 @@
     "path": "^0.12.7"
    }
 }
+
 
